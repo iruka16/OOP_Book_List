@@ -68,7 +68,7 @@ const ui = new UI();
 if(title ===''|| author === ''|| isbn ===''){
 alert('Failed');
 //error alert
-ui.showAlert('please suck a dick', 'error');
+ui.showAlert('please lick a pussy', 'error');
 } else {
      // Add book to list
 ui.addBookToList(book);
